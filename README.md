@@ -11,7 +11,7 @@ Aspiring Data Scientist passionate about leveraging data for impactful insights.
 ### 🔭 Featured Projects
 - 📡 **[Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)** → Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
 - 🧑‍🎨 **[Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)** → Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
-- ⛽ **[Oil Well Profitability Prediction](#)** → Developed ML models to predict **oil well success rates** for investment decisions. *(To be uploaded)*
+- ⛽ **[Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)** → Developed ML models to predict **oil well success rates** for investment decisions.
 
 ### 📬 Connect with Me!
 - 📧 Email: **rhiannon.filli@gmail.com**
