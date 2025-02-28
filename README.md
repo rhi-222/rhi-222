@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! ✨ I'm Rhiannon Fillingham
 
-<!--
-**rhi-222/rhi-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist passionate about leveraging data for impactful insights. Currently completing the **TripleTen Data Science Bootcamp**, where I develop skills in **Machine Learning, Data Analytics, SQL, and Python** through hands-on projects.
 
-Here are some ideas to get you started:
+### 👩🏻‍💻 About Me
+- 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), Machine Learning (Supervised & Unsupervised), SQL, Data Visualization, Deep Learning (CNNs).
+- 📊 **Current Focus**: Data Science & Predictive Modeling.
+- 📍 **Location**: San Antonio, TX.
+- 🌱 **Learning More About**: Computer Vision, Time Series Forecasting, and NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Projects
+- 📡 **[Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)** → Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
+- 🧑‍🎨 **[Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)** → Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
+- ⛽ **[Oil Well Profitability Prediction](#)** → Developed ML models to predict **oil well success rates** for investment decisions. *(To be uploaded)*
+
+### 📬 Connect with Me!
+- 📧 Email: **rhiannon.filli@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/rhiannonfilli](https://www.linkedin.com/in/rhiannonfilli)
+- 🔗 GitHub: **[@rhi-222](https://github.com/rhi-222)**
