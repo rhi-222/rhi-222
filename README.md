@@ -16,4 +16,3 @@ Aspiring Data Scientist passionate about leveraging data for impactful insights.
 ### 📬 Connect with Me!
 - 📧 Email: **rhiannon.filli@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/rhiannonfilli](https://www.linkedin.com/in/rhiannonfilli)
-- 🔗 GitHub: **[@rhi-222](https://github.com/rhi-222)**
