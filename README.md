@@ -21,7 +21,7 @@ I’m learning to navigate vast datasets using Python, machine learning, data vi
 - 🧑‍🎨 [Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction) → Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
 - ⛽ [Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction) → Developed ML models to predict **oil well success rates** for investment decisions.
   
-↪︎ [View All My TripleTen Projects](https://github.com/rhi-222/tripleten-projects)
+↪︎ [View All My TripleTen Projects](https://github.com/rhi-222/Data-Projects-TripleTen-)
 
 ---
 
