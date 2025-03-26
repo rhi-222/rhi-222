@@ -20,7 +20,7 @@ I’m learning to navigate vast datasets using Python, machine learning, data vi
 - 📡 [Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction) → Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
 - 🧑‍🎨 [Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction) → Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
 - ⛽ [Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction) → Developed ML models to predict **oil well success rates** for investment decisions.
-- [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://www.notion.so/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf98025ba24cc587f842db8?pvs=4) → Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
+- [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86?pvs=4)) → Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
   
 ↪︎ [View All My TripleTen Projects](https://github.com/rhi-222/Data-Projects-TripleTen-)
 
