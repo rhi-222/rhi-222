@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Rhi 
-## I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
+I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
 Currently completing a data science bootcamp, I’m building a portfolio that blends environmental science, astronomy, and research-driven exploration—fields where I believe data has the power to uncover meaning and inspire impact.
+
 
 I’m learning to navigate vast datasets using Python, machine learning, data visualization, and geospatial tools, and I’m especially drawn to projects that involve climate data, satellite imagery, or astronomical research.
 
